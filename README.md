@@ -5,10 +5,15 @@
  </p>
   <h3> My skills </h3>
 <p>
--**Languages**: Swift (SwiftUI), C++, Java, Python.
+  
+-**Languages**: Swift (SwiftUI), C++, Java, Python
+  
 -**Databases**: MongoDB, MySQL
+
 -**Cloud**: Docker, AWS (Lambda, S3)
+
 -**Other**: OpenGL</p>
+
 <h3> About Me </h3>
 <p>- I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
 - I am currently developing projects in SwiftUI, Java, and Python!
