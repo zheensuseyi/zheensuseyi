@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello!! I'm Zheen Suseyi!</h1>
-  <h2>Welcome To My Profile!!! 🤩</h2>
+  <h2>🤩 Welcome To My Profile!!! </h2>
   <p>In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is finally over, everyday is still a constant effort to further learn and improve! 
  </p>
   <h3> My skills </h3>
