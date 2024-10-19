@@ -3,8 +3,14 @@ In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is 
 
 ### My skills
 -**Languages**: Swift (SwiftUI), C++, Java, Python.
+
+
 -**Databases**: MongoDB, MySQL
+
+
 -**Cloud**: Docker, AWS (Lambda, S3)
+
+
 -**Other**: OpenGL
 
 ### About Me
