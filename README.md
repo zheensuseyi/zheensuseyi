@@ -4,7 +4,7 @@
   
   ## 🤩 Welcome To My Profile!!!  
 
-  I believe that in Software Development, every day is a chance to further learn and improve!  
+  I believe that in Software Development, each day is a chance to further learn and improve!  
 
   ---
   
