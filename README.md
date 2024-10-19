@@ -7,6 +7,9 @@
 <p>
 </div>
 
+<div align="center">
+<p>
+
 -**Languages**: Swift (SwiftUI), C++, Java, Python
   
 -**Databases**: MongoDB, MySQL
@@ -16,6 +19,8 @@
 -**Other**: OpenGL
 
 </p>
+</div>
+
 <div align="center">
 
 <h3> About Me </h3>
