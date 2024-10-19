@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello!! I'm Zheen Suseyi!</h1>
   <h2>🤩 Welcome To My Profile!!! </h2>
-  <p>In 2024, I graduated with my B.S in Computer Science! I believe when it comes to Software Developement, everyday is a constant effort to further learn and improve! 
+  <p> I believe when it comes to Software Developement, everyday is a constant effort to further learn and improve! 
  </p>
   
   <h3> My Skills </h3>
@@ -24,6 +24,8 @@
 <h3> About Me </h3>
   
 </div>
+
+- In 2024, I graduated with High Honors in Computer Science from Southern New Hampshire University!
 
 - I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
 
