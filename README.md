@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Hello!! I'm Zheen Suseyi!  
+  # 👋 Hello!! My Name Is Zheen Suseyi!  
   
   ## 🤩 Welcome To My Profile!!!  
 
