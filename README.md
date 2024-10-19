@@ -23,7 +23,7 @@
   
 </div>
 
-- 🎓 In 2024, I graduated with High Honors in **Computer Science** from Southern New Hampshire University!
+- 🎓 In 2024, I graduated with my B.S in **Computer Science** from Southern New Hampshire University!
 - ❤️ I'm passionate about **SwiftUI**! Check out my pinned repositories for the 3 apps I’ve built.
 - 👨‍💻 Currently developing projects in **SwiftUI**, **Java**, and **Python**.
 - 🌍 Outside of coding, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
