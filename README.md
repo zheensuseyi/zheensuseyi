@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>Hello, I'm Zheen Suseyi!</h1>
-  <p>Welcome to my GitHub profile!</p>
+  <h1>👋 Hello!! I'm Zheen Suseyi!</h1>
+  <p>Welcome To My Profile!!! 🤩</p>
 </div>
 
-# 👋 Hello!! And Welcome To My Profile!!! 🤩
 In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is finally over, everyday is still a constant effort to further learn and improve! 
 
 ### My skills
