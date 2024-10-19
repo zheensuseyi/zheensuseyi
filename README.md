@@ -5,7 +5,8 @@
  </p>
   <h3> My skills </h3>
 <p>
-  
+</div>
+
 -**Languages**: Swift (SwiftUI), C++, Java, Python
   
 -**Databases**: MongoDB, MySQL
@@ -15,6 +16,7 @@
 -**Other**: OpenGL
 
 </p>
+<div align="center">
 
 <h3> About Me </h3>
   
