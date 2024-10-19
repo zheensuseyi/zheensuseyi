@@ -16,6 +16,7 @@
 
 <h3> About Me </h3>
   
+</div>
 - I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
 
 - I am currently developing projects in SwiftUI, Java, and Python!
@@ -23,5 +24,3 @@
 - Outside of programming, I am passionate about Traveling, DJing, Cooking, Hiking, Fashion, and Fitness!
   
 - How to reach me: [Email](mailto:suseyihzheen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zheen-s-430214255/) 
-
-</div>
