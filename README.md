@@ -14,7 +14,7 @@
 
 -  ⛈**Cloud**: Docker, AWS (Lambda, S3)
 
--  💯**Other**: OpenGL
+-  ✅**Other**: OpenGL
 
 </p>
 </div>
