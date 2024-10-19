@@ -12,7 +12,9 @@
 
 -**Cloud**: Docker, AWS (Lambda, S3)
 
--**Other**: OpenGL</p>
+-**Other**: OpenGL
+
+</p>
 
 <h3> About Me </h3>
   
