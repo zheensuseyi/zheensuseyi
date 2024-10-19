@@ -15,7 +15,7 @@
   | 📖 **Languages** | Swift (SwiftUI), C++, Java, Python |
   | 📊 **Databases** | MongoDB, MySQL                     |
   | ⛈ **Cloud**    | Docker, AWS (Lambda, S3)            |
-  | ✅ **Other**    | OpenGL                              |
+  | ✅ **Other**    | Git, OpenGL                              |
   
   ---
   
