@@ -17,6 +17,7 @@
 <h3> About Me </h3>
   
 </div>
+
 - I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
 
 - I am currently developing projects in SwiftUI, Java, and Python!
