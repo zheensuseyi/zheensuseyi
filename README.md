@@ -3,20 +3,18 @@
   <h2>🤩 Welcome To My Profile!!! </h2>
   <p>In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is finally over, everyday is still a constant effort to further learn and improve! 
  </p>
-  <h3> My skills </h3>
-<p>
-</div>
-
-<div align="center">
-<p>
-
--**Languages**: Swift (SwiftUI), C++, Java, Python
   
--**Databases**: MongoDB, MySQL
+  <h3> My Skills </h3>
+  
+<p>
 
--**Cloud**: Docker, AWS (Lambda, S3)
+-  **Languages**: Swift (SwiftUI), C++, Java, Python
+  
+-  **Databases**: MongoDB, MySQL
 
--**Other**: OpenGL
+-  **Cloud**: Docker, AWS (Lambda, S3)
+
+-  **Other**: OpenGL
 
 </p>
 </div>
