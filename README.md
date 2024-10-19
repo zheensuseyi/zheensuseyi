@@ -1,36 +1,42 @@
 <div align="center">
-  <h1>👋 Hello!! I'm Zheen Suseyi!</h1>
-  <h2>🤩 Welcome To My Profile!!! </h2>
-  <p> I believe when it comes to Software Developement, everyday is a constant effort to further learn and improve! 
- </p>
   
-  <h3> My Skills </h3>
+  # 👋 Hello!! I'm Zheen Suseyi!  
   
-<p>
+  ## 🤩 Welcome To My Profile!!!  
 
--  📖**Languages**: Swift (SwiftUI), C++, Java, Python
+  I believe that in Software Development, every day is a chance to learn and improve!  
+
+  ---
   
--  📊**Databases**: MongoDB, MySQL
-
--  ⛈**Cloud**: Docker, AWS (Lambda, S3)
-
--  ✅**Other**: OpenGL
-
-</p>
+  ## 💻 My Skills
+  
+  | **Category**  | **Technologies**                     |
+  | ------------- | ------------------------------------ |
+  | 📖 **Languages** | Swift (SwiftUI), C++, Java, Python |
+  | 📊 **Databases** | MongoDB, MySQL                     |
+  | ⛈ **Cloud**    | Docker, AWS (Lambda, S3)            |
+  | ✅ **Other**    | OpenGL                              |
+  
+  ---
+  
+  ## 🙋‍♂️ About Me
+  
 </div>
 
+- 🎓 In 2024, I graduated with High Honors in **Computer Science** from Southern New Hampshire University!
+- ❤️ I'm passionate about **SwiftUI**! Check out my pinned repositories for the 3 apps I’ve built.
+- 👨‍💻 Currently developing projects in **SwiftUI**, **Java**, and **Python**.
+- 🌍 Outside of coding, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
+
+---
+
+## 📫 How to reach me:
+  
 <div align="center">
-
-<h3> About Me </h3>
-  
+  <a href="mailto:suseyihzheen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/zheen-s-430214255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-
-- In 2024, I graduated with High Honors in Computer Science from Southern New Hampshire University!
-
-- I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
-
-- I am currently developing projects in SwiftUI, Java, and Python!
-  
-- Outside of programming, I am passionate about Traveling, DJing, Cooking, Hiking, Fashion, and Fitness!
-  
-- How to reach me: [Email](mailto:suseyihzheen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zheen-s-430214255/) 
