@@ -6,9 +6,9 @@
   <h3> My skills </h3>
 <p>
   
--**Languages**: Swift (SwiftUI), C++, Java, Python
+-Languages: Swift (SwiftUI), C++, Java, Python
   
--**Databases**: MongoDB, MySQL
+-Databases: MongoDB, MySQL
 
 -**Cloud**: Docker, AWS (Lambda, S3)
 
