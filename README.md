@@ -15,7 +15,7 @@ In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is 
 
 ### About Me
 - I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
-- I am currently learning more and developing projects in SwiftUI, Java, and Python!
+- I am currently developing projects in SwiftUI, Java, and Python!
 - Outside of programming, I am passionate about Traveling, DJing, Cooking, Hiking, Fashion, and Fitness! 
 - How to reach me: [Email](mailto:suseyihzheen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zheen-s-430214255/)
 
