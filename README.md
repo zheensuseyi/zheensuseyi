@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hello!!! My name is Zheen Suseyi (He/Him) and welcome to my profile!
+In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is finally over, everyday is still a constant effort to learn and improve more about Software Developement!
+
+### My skills
+-**Languages**: Swift (SwiftUI), C++, Java, Python.
+-**Databases**: MongoDB, MySQL
+-**Cloud**: Docker, AWS (Lambda, S3)
+-**Other**: OpenGL
+
+### About Me
+- I LOVE SwiftUI! I have developed 3 apps entirely on my own thus far which you can see in my Pinned Repositories below!
+- I am currently learning more and developing projects in SwiftUI, Java, and Python!
+- Outside of programming, I am passionate about Traveling, DJing, Cooking, Hiking, Fashion, and Fitness! 
+- How to reach me: [Email](mailto:suseyihzheen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zheen-s-430214255/)
+
 
 <!--
 **zheensuseyi/zheensuseyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
