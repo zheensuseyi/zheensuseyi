@@ -1,4 +1,4 @@
-# Hello and welcome to my profile!!!
+# Hello!! And Welcome To My Profile!!!
 In 2024, I graduated with my B.S in Computer Science! Although my schoolwork is finally over, everyday is still a constant effort to learn and improve more about Software Developement!
 
 ### My skills
