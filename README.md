@@ -4,8 +4,8 @@
   
   ## 🤩 Welcome To My Profile!!!  
 
- In Software Development, each day is a chance to further learn and improve!  
-
+“If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.”
+— MLK
   ---
   
   ## 💻 My Skills
