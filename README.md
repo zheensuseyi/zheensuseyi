@@ -10,7 +10,7 @@
   
   | **Category**  | **Technologies**                     |
   | ------------- | ------------------------------------ |
-  | 📖 **Languages** | Swift, Python, C++, Java, Javascript  |
+  | 📖 **Languages** | Swift, Python, C++, Java  |
   | 📊 **Databases** | MongoDB, MySQL                     |
   | ⛈ **Cloud**    | Docker, AWS (Lambda, S3)            |
   | ✅ **Other**    | Git, HTML, OpenGL, XCode, Android Studio                              |
