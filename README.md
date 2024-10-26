@@ -13,7 +13,7 @@
   | 📖 **Languages** | Swift, Python, C++, Java, Javascript  |
   | 📊 **Databases** | MongoDB, MySQL                     |
   | ⛈ **Cloud**    | Docker, AWS (Lambda, S3)            |
-  | ✅ **Other**    | Git, Html, OpenGL, XCode, Android Studio                              |
+  | ✅ **Other**    | Git, HTML, OpenGL, XCode, Android Studio                              |
   
   ---
   
