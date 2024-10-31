@@ -1,8 +1,8 @@
 <div align="center">
   
-  # Hello!! My Name Is Zheen Suseyi!  
+  # Hello! My Name Is Zheen Suseyi. 
 
-  # I am an aspiring Software Developer with a deep love for Swift, Python, and all things programming!
+  # I Am An Aspiring Software Developer With A Deep Love for Swift, Python, And All Things Programming!
   ---
   
   ## 💻 My Skills
@@ -12,7 +12,7 @@
   | 📖 **Languages** | Swift, Python, C++, Java  |
   | 📊 **Databases** | MongoDB, MySQL                     |
   | ⛈ **Cloud**    | Docker, AWS (Lambda, S3)            |
-  | ✅ **Other**    | Git, HTML, OpenGL, XCode, Android Studio                              |
+  | ✅ **Other**    | Git, HTML/CSS, XCode, PyCharm, VSCode, Eclipse                              |
   
   ---
   
