@@ -8,10 +8,10 @@
   
   | **Category**  | **Technologies**                     |
   | ------------- | ------------------------------------ |
-  | 📖 **Languages** | Swift, Python, C++, Java  |
-  | 📊 **Databases** | MongoDB, MySQL                     |
-  | ⛈ **Cloud**    | Docker, AWS (Lambda, S3)            |
-  | ✅ **Other**    | Git, HTML/CSS, XCode, PyCharm, VSCode, Eclipse                              |
+  | **Languages** | Swift, Python, C++, Java  |
+  | **Databases** | MongoDB, MySQL                     |
+  | **Cloud**    | Docker, AWS (Lambda, S3)            |
+  | **Other**    | Git, HTML/CSS, XCode, PyCharm, VSCode, Eclipse                              |
   
   ---
   
@@ -19,10 +19,10 @@
   
 </div>
 
-- 🎓 In 2024, I graduated with my B.S in **Computer Science** from Southern New Hampshire University!
-- ❤️ I'm passionate about **SwiftUI**! Check out my pinned repositories for the apps I’ve built.
-- 👨‍💻 Currently developing projects in **SwiftUI**, **Java**, and **Python**.
-- 🌍 Outside of coding, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
+- In 2024, I graduated with my B.S in **Computer Science** from Southern New Hampshire University!
+- I'm passionate about **SwiftUI**! Check out my pinned repositories for the apps I’ve built.
+- Currently developing projects in **SwiftUI**, **Java**, and **Python**.
+- Outside of coding, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
 
 ---
 
