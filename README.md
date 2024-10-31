@@ -4,7 +4,7 @@
 
   <h2> I Am An Aspiring Software Developer With A Deep Love for Swift, Python, And All Things Programming! </h2>
   
-  ## 💻 My Skills
+  ## My Skills
   
   | **Category**  | **Technologies**                     |
   | ------------- | ------------------------------------ |
