@@ -1,9 +1,8 @@
 <div align="center">
   
-  # 👋 Hello!! My Name Is Zheen Suseyi!  
-  
-  ## 🤩 Welcome To My Profile!!!  
+  # Hello!! My Name Is Zheen Suseyi!  
 
+  # I am an aspiring Software Developer with a deep love for Swift, Python, and all things programming!
   ---
   
   ## 💻 My Skills
@@ -17,7 +16,7 @@
   
   ---
   
-  ## 🙋‍♂️ About Me
+  ## About Me
   
 </div>
 
