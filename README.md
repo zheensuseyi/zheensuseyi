@@ -2,7 +2,7 @@
   
   <h1>Hello! My Name Is Zheen Suseyi. </h1> 
 
-  <h2> I Am An Aspiring Software Developer With A Deep Love for Swift, Python, And All Things Programming! </h2>
+  <h2> I am an aspiring software developer with a passion for mobile development, web development, and all things programming! </h2>
   
   ## My Skills
   
