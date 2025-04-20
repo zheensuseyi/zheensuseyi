@@ -22,7 +22,7 @@
 - Currently developing projects using **SwiftUI** and **React Native**.
 - Outside of programming, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
 
----
+ ---
 
 ## 📫 How to reach me:
   
