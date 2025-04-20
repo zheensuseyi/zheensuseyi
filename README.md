@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Zheen Suseyi, Aspiring Software Developer!</h1> 
+  <h1>Hello and welcome to my profile!</h1> 
 
   
   ## My Skills
