@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Full Stack Developer, Passion for iOS Development</h1> 
+  <h1>Avid Software Developer!</h1> 
 
   
   ## My Skills
