@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Avid Software Developer! This github is just for my fun personal projects!</h1> 
+  <h1>Aspiring Software Developer</h1> 
 
   
   ## My Skills
@@ -19,9 +19,8 @@
 </div>
 
 - In 2024, I graduated with my B.S in **Computer Science** from Southern New Hampshire University!
-- I'm passionate about **SwiftUI**! Check out my pinned repositories for the apps I’ve built.
-- Currently developing projects using **SwiftUI**, **React Native**, and **Python**.
-- Outside of coding, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
+- Currently developing projects using **SwiftUI** and **React Native**.
+- Outside of programming, I love **Traveling**, **DJing**, **Cooking**, **Hiking**, **Fashion**, and **Fitness**!
 
 ---
 
