@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Avid Software Developer!</h1> 
+  <h1>Avid Software Developer! This github is just for my fun personal projects!</h1> 
 
   
   ## My Skills
