@@ -7,10 +7,10 @@
   
   | **Category**  | **Technologies**                     |
   | ------------- | ------------------------------------ |
-  | **Languages** | Swift, Javascript, HTML/CSS, Python, Java, C++  |
-  | **Frameworks** | React Native, SwiftUI                     |
-  | **Cloud**    | Docker, AWS (Lambda, S3)            |
-  | **Technologies**    | XCode, Android Studio, Visual Studio Code, PyCharm |
+  | **Languages** | Swift, TypeScript/Javascript, HTML/CSS, Python, Java, C++  |
+  | **Frameworks** | React Native, SwiftUI                    |
+  | **Group Development**    | Git           |
+  | **Technologies**    | XCode, Visual Studio Code, PyCharm |
   
   ---
   
